@@ -1,0 +1,3224 @@
+[
+   {
+      "zip":"90001",
+      "locality":"Firestone Park",
+      "latitude":33.963071,
+      "longitude":-118.232573
+   },
+   {
+      "zip":"90001",
+      "locality":"Los Angeles",
+      "latitude":33.971235,
+      "longitude":-118.250848
+   },
+   {
+      "zip":"90002",
+      "locality":"Los Angeles",
+      "latitude":33.952476,
+      "longitude":-118.250400
+   },
+   {
+      "zip":"90002",
+      "locality":"Watts",
+      "latitude":33.938636,
+      "longitude":-118.238043
+   },
+   {
+      "zip":"90003",
+      "locality":"Broadway Manchester",
+      "latitude":33.953862,
+      "longitude":-118.258794
+   },
+   {
+      "zip":"90003",
+      "locality":"Los Angeles",
+      "latitude":33.972877,
+      "longitude":-118.246293
+   },
+   {
+      "zip":"90004",
+      "locality":"Los Angeles",
+      "latitude":34.071017,
+      "longitude":-118.302443
+   },
+   {
+      "zip":"90004",
+      "locality":"Oakwood",
+      "latitude":34.075472,
+      "longitude":-118.308570
+   },
+   {
+      "zip":"90005",
+      "locality":"Los Angeles",
+      "latitude":34.059786,
+      "longitude":-118.310208
+   },
+   {
+      "zip":"90005",
+      "locality":"Sanford",
+      "latitude":34.062586,
+      "longitude":-118.311605
+   },
+   {
+      "zip":"90006",
+      "locality":"Los Angeles",
+      "latitude":34.048384,
+      "longitude":-118.294481
+   },
+   {
+      "zip":"90006",
+      "locality":"Pico Heights",
+      "latitude":34.048283,
+      "longitude":-118.293477
+   },
+   {
+      "zip":"90007",
+      "locality":"Dockweiler",
+      "latitude":34.026911,
+      "longitude":-118.300223
+   },
+   {
+      "zip":"90007",
+      "locality":"Los Angeles",
+      "latitude":34.024087,
+      "longitude":-118.284807
+   },
+   {
+      "zip":"90008",
+      "locality":"Baldwin Hills",
+      "latitude":34.005830,
+      "longitude":-118.341390
+   },
+   {
+      "zip":"90008",
+      "locality":"Crenshaw",
+      "latitude":33.925155,
+      "longitude":-118.326504
+   },
+   {
+      "zip":"90008",
+      "locality":"Leimert Park",
+      "latitude":34.010670,
+      "longitude":-118.323476
+   },
+   {
+      "zip":"90008",
+      "locality":"Los Angeles",
+      "latitude":34.014937,
+      "longitude":-118.339800
+   },
+   {
+      "zip":"90008",
+      "locality":"View Park",
+      "latitude":34.002527,
+      "longitude":-118.341662
+   },
+   {
+      "zip":"90010",
+      "locality":"Los Angeles",
+      "latitude":34.050154,
+      "longitude":-118.341019
+   },
+   {
+      "zip":"90010",
+      "locality":"Sanford",
+      "latitude":34.062586,
+      "longitude":-118.311605
+   },
+   {
+      "zip":"90011",
+      "locality":"Los Angeles",
+      "latitude":34.003613,
+      "longitude":-118.253810
+   },
+   {
+      "zip":"90012",
+      "locality":"Federal",
+      "latitude":34.053954,
+      "longitude":-118.243539
+   },
+   {
+      "zip":"90012",
+      "locality":"Los Angeles",
+      "latitude":34.053615,
+      "longitude":-118.240411
+   },
+   {
+      "zip":"90013",
+      "locality":"Federal",
+      "latitude":34.053954,
+      "longitude":-118.243539
+   },
+   {
+      "zip":"90013",
+      "locality":"Los Angeles",
+      "latitude":34.044388,
+      "longitude":-118.241252
+   },
+   {
+      "zip":"90014",
+      "locality":"Los Angeles",
+      "latitude":34.043196,
+      "longitude":-118.252073
+   },
+   {
+      "zip":"90015",
+      "locality":"Del Valle Finance",
+      "latitude":34.038910,
+      "longitude":-118.268366
+   },
+   {
+      "zip":"90015",
+      "locality":"Dowtown Carrier Annex",
+      "latitude":34.058099,
+      "longitude":-118.235330
+   },
+   {
+      "zip":"90015",
+      "locality":"Los Angeles",
+      "latitude":34.030620,
+      "longitude":-118.263272
+   },
+   {
+      "zip":"90015",
+      "locality":"Textile Finance",
+      "latitude":34.040037,
+      "longitude":-118.255764
+   },
+   {
+      "zip":"90016",
+      "locality":"Los Angeles",
+      "latitude":34.024499,
+      "longitude":-118.341755
+   },
+   {
+      "zip":"90016",
+      "locality":"West Adams",
+      "latitude":34.126485,
+      "longitude":-118.115401
+   },
+   {
+      "zip":"90017",
+      "locality":"Foy",
+      "latitude":34.049826,
+      "longitude":-118.262820
+   },
+   {
+      "zip":"90017",
+      "locality":"Los Angeles",
+      "latitude":34.045472,
+      "longitude":-118.260105
+   },
+   {
+      "zip":"90018",
+      "locality":"Cimarron",
+      "latitude":34.009731,
+      "longitude":-118.308605
+   },
+   {
+      "zip":"90018",
+      "locality":"Dockweiler",
+      "latitude":34.026911,
+      "longitude":-118.300223
+   },
+   {
+      "zip":"90018",
+      "locality":"Los Angeles",
+      "latitude":34.024538,
+      "longitude":-118.308686
+   },
+   {
+      "zip":"90019",
+      "locality":"Los Angeles",
+      "latitude":34.040340,
+      "longitude":-118.332156
+   },
+   {
+      "zip":"90019",
+      "locality":"Rimpau",
+      "latitude":34.048428,
+      "longitude":-118.339983
+   },
+   {
+      "zip":"90020",
+      "locality":"Los Angeles",
+      "latitude":34.066356,
+      "longitude":-118.309161
+   },
+   {
+      "zip":"90020",
+      "locality":"Sanford",
+      "latitude":34.062586,
+      "longitude":-118.311605
+   },
+   {
+      "zip":"90021",
+      "locality":"Los Angeles",
+      "latitude":34.024791,
+      "longitude":-118.237748
+   },
+   {
+      "zip":"90021",
+      "locality":"Market",
+      "latitude":34.029087,
+      "longitude":-118.239235
+   },
+   {
+      "zip":"90022",
+      "locality":"Commerce",
+      "latitude":34.010826,
+      "longitude":-118.144059
+   },
+   {
+      "zip":"90022",
+      "locality":"East Los Angeles",
+      "latitude":34.023901,
+      "longitude":-118.172016
+   },
+   {
+      "zip":"90022",
+      "locality":"Los Angeles",
+      "latitude":34.025611,
+      "longitude":-118.159696
+   },
+   {
+      "zip":"90023",
+      "locality":"Commerce",
+      "latitude":34.012457,
+      "longitude":-118.181227
+   },
+   {
+      "zip":"90023",
+      "locality":"Los Angeles",
+      "latitude":34.025177,
+      "longitude":-118.203773
+   },
+   {
+      "zip":"90023",
+      "locality":"Lugo",
+      "latitude":34.023059,
+      "longitude":-118.202654
+   },
+   {
+      "zip":"90024",
+      "locality":"Los Angeles",
+      "latitude":34.064194,
+      "longitude":-118.437102
+   },
+   {
+      "zip":"90024",
+      "locality":"Village",
+      "latitude":34.066592,
+      "longitude":-118.434129
+   },
+   {
+      "zip":"90025",
+      "locality":"Los Angeles",
+      "latitude":34.046196,
+      "longitude":-118.442397
+   },
+   {
+      "zip":"90025",
+      "locality":"West Los Angeles",
+      "latitude":34.044858,
+      "longitude":-118.448437
+   },
+   {
+      "zip":"90026",
+      "locality":"Echo Park",
+      "latitude":34.082534,
+      "longitude":-118.246815
+   },
+   {
+      "zip":"90026",
+      "locality":"Edendale",
+      "latitude":34.090010,
+      "longitude":-118.259241
+   },
+   {
+      "zip":"90026",
+      "locality":"Los Angeles",
+      "latitude":34.078227,
+      "longitude":-118.263236
+   },
+   {
+      "zip":"90026",
+      "locality":"Silver Lake",
+      "latitude":34.086941,
+      "longitude":-118.270204
+   },
+   {
+      "zip":"90027",
+      "locality":"Hollywood",
+      "latitude":34.102261,
+      "longitude":-118.329992
+   },
+   {
+      "zip":"90027",
+      "locality":"Los Angeles",
+      "latitude":34.105084,
+      "longitude":-118.282538
+   },
+   {
+      "zip":"90027",
+      "locality":"Los Feliz",
+      "latitude":34.106331,
+      "longitude":-118.284820
+   },
+   {
+      "zip":"90028",
+      "locality":"Los Angeles",
+      "latitude":34.099765,
+      "longitude":-118.328721
+   },
+   {
+      "zip":"90029",
+      "locality":"Los Angeles",
+      "latitude":34.089952,
+      "longitude":-118.293981
+   },
+   {
+      "zip":"90029",
+      "locality":"Vermont",
+      "latitude":34.089929,
+      "longitude":-118.294103
+   },
+   {
+      "zip":"90031",
+      "locality":"Lincoln Heights",
+      "latitude":34.073703,
+      "longitude":-118.211726
+   },
+   {
+      "zip":"90031",
+      "locality":"Los Angeles",
+      "latitude":34.079551,
+      "longitude":-118.209038
+   },
+   {
+      "zip":"90032",
+      "locality":"Los Angeles",
+      "latitude":34.079952,
+      "longitude":-118.180767
+   },
+   {
+      "zip":"90033",
+      "locality":"Boyle Heights",
+      "latitude":34.033166,
+      "longitude":-118.204865
+   },
+   {
+      "zip":"90033",
+      "locality":"Los Angeles",
+      "latitude":34.049270,
+      "longitude":-118.209552
+   },
+   {
+      "zip":"90034",
+      "locality":"Los Angeles",
+      "latitude":34.031579,
+      "longitude":-118.388587
+   },
+   {
+      "zip":"90034",
+      "locality":"Palms",
+      "latitude":34.024413,
+      "longitude":-118.407547
+   },
+   {
+      "zip":"90035",
+      "locality":"Los Angeles",
+      "latitude":34.050494,
+      "longitude":-118.385583
+   },
+   {
+      "zip":"90035",
+      "locality":"Preuss",
+      "latitude":34.052688,
+      "longitude":-118.386229
+   },
+   {
+      "zip":"90036",
+      "locality":"Farmer Market",
+      "latitude":34.070436,
+      "longitude":-118.350486
+   },
+   {
+      "zip":"90036",
+      "locality":"Los Angeles",
+      "latitude":34.070622,
+      "longitude":-118.350186
+   },
+   {
+      "zip":"90036",
+      "locality":"Miracle Mile",
+      "latitude":34.059534,
+      "longitude":-118.349117
+   },
+   {
+      "zip":"90036",
+      "locality":"Wilshire La Brea",
+      "latitude":34.062095,
+      "longitude":-118.343970
+   },
+   {
+      "zip":"90037",
+      "locality":"Green",
+      "latitude":34.005070,
+      "longitude":-118.288383
+   },
+   {
+      "zip":"90037",
+      "locality":"Los Angeles",
+      "latitude":34.006057,
+      "longitude":-118.293153
+   },
+   {
+      "zip":"90038",
+      "locality":"Los Angeles",
+      "latitude":34.088693,
+      "longitude":-118.325698
+   },
+   {
+      "zip":"90038",
+      "locality":"West Hollywood",
+      "latitude":34.090697,
+      "longitude":-118.344148
+   },
+   {
+      "zip":"90038",
+      "locality":"Wilcox",
+      "latitude":34.112461,
+      "longitude":-118.338781
+   },
+   {
+      "zip":"90039",
+      "locality":"Griffith",
+      "latitude":34.107388,
+      "longitude":-118.260127
+   },
+   {
+      "zip":"90039",
+      "locality":"Los Angeles",
+      "latitude":34.107024,
+      "longitude":-118.260993
+   },
+   {
+      "zip":"90040",
+      "locality":"Commerce",
+      "latitude":33.995701,
+      "longitude":-118.150847
+   },
+   {
+      "zip":"90040",
+      "locality":"Los Angeles",
+      "latitude":33.999633,
+      "longitude":-118.160713
+   },
+   {
+      "zip":"90041",
+      "locality":"Eagle Rock",
+      "latitude":34.138900,
+      "longitude":-118.213960
+   },
+   {
+      "zip":"90041",
+      "locality":"Los Angeles",
+      "latitude":34.133696,
+      "longitude":-118.210338
+   },
+   {
+      "zip":"90042",
+      "locality":"Highland Park",
+      "latitude":34.115756,
+      "longitude":-118.185404
+   },
+   {
+      "zip":"90042",
+      "locality":"Los Angeles",
+      "latitude":34.115396,
+      "longitude":-118.190907
+   },
+   {
+      "zip":"90043",
+      "locality":"La Tijera",
+      "latitude":33.989392,
+      "longitude":-118.339953
+   },
+   {
+      "zip":"90043",
+      "locality":"Los Angeles",
+      "latitude":33.993647,
+      "longitude":-118.332215
+   },
+   {
+      "zip":"90043",
+      "locality":"View Park",
+      "latitude":33.998595,
+      "longitude":-118.342484
+   },
+   {
+      "zip":"90043",
+      "locality":"Windsor Hills",
+      "latitude":33.991400,
+      "longitude":-118.350148
+   },
+   {
+      "zip":"90044",
+      "locality":"August F Haw",
+      "latitude":34.082132,
+      "longitude":-118.203346
+   },
+   {
+      "zip":"90044",
+      "locality":"Hancock",
+      "latitude":33.953125,
+      "longitude":-118.291963
+   },
+   {
+      "zip":"90044",
+      "locality":"Los Angeles",
+      "latitude":33.953086,
+      "longitude":-118.291750
+   },
+   {
+      "zip":"90045",
+      "locality":"Los Angeles",
+      "latitude":33.963845,
+      "longitude":-118.375447
+   },
+   {
+      "zip":"90045",
+      "locality":"Westchester",
+      "latitude":33.962591,
+      "longitude":-118.398784
+   },
+   {
+      "zip":"90046",
+      "locality":"Los Angeles",
+      "latitude":34.107486,
+      "longitude":-118.362814
+   },
+   {
+      "zip":"90046",
+      "locality":"West Hollywood",
+      "latitude":34.091985,
+      "longitude":-118.360001
+   },
+   {
+      "zip":"90047",
+      "locality":"Los Angeles",
+      "latitude":33.963346,
+      "longitude":-118.310705
+   },
+   {
+      "zip":"90047",
+      "locality":"Wagner",
+      "latitude":33.953393,
+      "longitude":-118.308383
+   },
+   {
+      "zip":"90048",
+      "locality":"Bicentennial",
+      "latitude":34.070997,
+      "longitude":-118.376175
+   },
+   {
+      "zip":"90048",
+      "locality":"Briggs",
+      "latitude":34.070997,
+      "longitude":-118.376175
+   },
+   {
+      "zip":"90048",
+      "locality":"Los Angeles",
+      "latitude":34.071874,
+      "longitude":-118.374024
+   },
+   {
+      "zip":"90048",
+      "locality":"West Hollywood",
+      "latitude":34.081700,
+      "longitude":-118.380792
+   },
+   {
+      "zip":"90049",
+      "locality":"Barrington",
+      "latitude":34.094512,
+      "longitude":-118.470366
+   },
+   {
+      "zip":"90049",
+      "locality":"Los Angeles",
+      "latitude":34.070131,
+      "longitude":-118.476582
+   },
+   {
+      "zip":"90052",
+      "locality":"Los Angeles",
+      "latitude":33.971549,
+      "longitude":-118.256444
+   },
+   {
+      "zip":"90056",
+      "locality":"Baldwin Hills",
+      "latitude":34.005830,
+      "longitude":-118.341390
+   },
+   {
+      "zip":"90056",
+      "locality":"Crenshaw",
+      "latitude":33.925155,
+      "longitude":-118.326504
+   },
+   {
+      "zip":"90056",
+      "locality":"Los Angeles",
+      "latitude":33.987032,
+      "longitude":-118.370284
+   },
+   {
+      "zip":"90056",
+      "locality":"Windsor Hills",
+      "latitude":33.986447,
+      "longitude":-118.359878
+   },
+   {
+      "zip":"90057",
+      "locality":"Flint",
+      "latitude":34.062350,
+      "longitude":-118.276150
+   },
+   {
+      "zip":"90057",
+      "locality":"Los Angeles",
+      "latitude":34.063331,
+      "longitude":-118.276911
+   },
+   {
+      "zip":"90058",
+      "locality":"Los Angeles",
+      "latitude":34.005641,
+      "longitude":-118.231012
+   },
+   {
+      "zip":"90058",
+      "locality":"Vernon",
+      "latitude":34.003903,
+      "longitude":-118.230073
+   },
+   {
+      "zip":"90059",
+      "locality":"August F Haw",
+      "latitude":34.082132,
+      "longitude":-118.203346
+   },
+   {
+      "zip":"90059",
+      "locality":"Greenmead",
+      "latitude":33.920710,
+      "longitude":-118.245186
+   },
+   {
+      "zip":"90059",
+      "locality":"Los Angeles",
+      "latitude":33.931962,
+      "longitude":-118.252572
+   },
+   {
+      "zip":"90061",
+      "locality":"August F Haw",
+      "latitude":34.082132,
+      "longitude":-118.203346
+   },
+   {
+      "zip":"90061",
+      "locality":"Los Angeles",
+      "latitude":33.931237,
+      "longitude":-118.273160
+   },
+   {
+      "zip":"90061",
+      "locality":"South",
+      "latitude":33.305477,
+      "longitude":-118.343230
+   },
+   {
+      "zip":"90062",
+      "locality":"Los Angeles",
+      "latitude":34.009531,
+      "longitude":-118.306364
+   },
+   {
+      "zip":"90062",
+      "locality":"Westvern",
+      "latitude":34.004296,
+      "longitude":-118.308070
+   },
+   {
+      "zip":"90063",
+      "locality":"Hazard",
+      "latitude":34.041251,
+      "longitude":-118.183633
+   },
+   {
+      "zip":"90063",
+      "locality":"Los Angeles",
+      "latitude":34.045756,
+      "longitude":-118.186619
+   },
+   {
+      "zip":"90064",
+      "locality":"Los Angeles",
+      "latitude":34.036085,
+      "longitude":-118.410503
+   },
+   {
+      "zip":"90064",
+      "locality":"Rancho Park",
+      "latitude":34.045430,
+      "longitude":-118.420692
+   },
+   {
+      "zip":"90065",
+      "locality":"Glassell",
+      "latitude":34.109141,
+      "longitude":-118.224846
+   },
+   {
+      "zip":"90065",
+      "locality":"Glassell Park",
+      "latitude":34.109224,
+      "longitude":-118.232195
+   },
+   {
+      "zip":"90065",
+      "locality":"Los Angeles",
+      "latitude":34.107281,
+      "longitude":-118.224873
+   },
+   {
+      "zip":"90066",
+      "locality":"Los Angeles",
+      "latitude":34.004258,
+      "longitude":-118.421460
+   },
+   {
+      "zip":"90066",
+      "locality":"Mar Vista",
+      "latitude":34.015257,
+      "longitude":-118.433835
+   },
+   {
+      "zip":"90067",
+      "locality":"Century",
+      "latitude":34.057750,
+      "longitude":-118.413800
+   },
+   {
+      "zip":"90067",
+      "locality":"Los Angeles",
+      "latitude":34.056142,
+      "longitude":-118.413855
+   },
+   {
+      "zip":"90068",
+      "locality":"Los Angeles",
+      "latitude":34.115526,
+      "longitude":-118.327908
+   },
+   {
+      "zip":"90069",
+      "locality":"Los Angeles",
+      "latitude":34.095381,
+      "longitude":-118.373352
+   },
+   {
+      "zip":"90069",
+      "locality":"West Hollywood",
+      "latitude":34.089010,
+      "longitude":-118.382308
+   },
+   {
+      "zip":"90071",
+      "locality":"Arco",
+      "latitude":34.121966,
+      "longitude":-117.907328
+   },
+   {
+      "zip":"90071",
+      "locality":"Arco Plaza",
+      "latitude":34.052456,
+      "longitude":-118.255309
+   },
+   {
+      "zip":"90071",
+      "locality":"Los Angeles",
+      "latitude":34.047134,
+      "longitude":-118.256319
+   },
+   {
+      "zip":"90072",
+      "locality":"Los Angeles",
+      "latitude":34.084984,
+      "longitude":-118.300519
+   },
+   {
+      "zip":"90072",
+      "locality":"Santa Western",
+      "latitude":34.052200,
+      "longitude":-118.242900
+   },
+   {
+      "zip":"90073",
+      "locality":"Los Angeles",
+      "latitude":34.059376,
+      "longitude":-118.451720
+   },
+   {
+      "zip":"90077",
+      "locality":"Los Angeles",
+      "latitude":34.104226,
+      "longitude":-118.452225
+   },
+   {
+      "zip":"90079",
+      "locality":"Los Angeles",
+      "latitude":34.007782,
+      "longitude":-118.170798
+   },
+   {
+      "zip":"90079",
+      "locality":"Textile Boxes",
+      "latitude":34.060566,
+      "longitude":-118.414713
+   },
+   {
+      "zip":"90089",
+      "locality":"Los Angeles",
+      "latitude":34.021876,
+      "longitude":-118.289121
+   },
+   {
+      "zip":"90090",
+      "locality":"Dodgertown",
+      "latitude":34.072657,
+      "longitude":-118.244190
+   },
+   {
+      "zip":"90091",
+      "locality":"Commerce",
+      "latitude":34.008665,
+      "longitude":-118.185071
+   },
+   {
+      "zip":"90094",
+      "locality":"Playa Vista",
+      "latitude":33.974555,
+      "longitude":-118.421016
+   },
+   {
+      "zip":"90095",
+      "locality":"Los Angeles",
+      "latitude":34.067686,
+      "longitude":-118.446407
+   },
+   {
+      "zip":"90096",
+      "locality":"Los Angeles",
+      "latitude":34.125303,
+      "longitude":-118.238780
+   },
+   {
+      "zip":"90134",
+      "locality":"Los Angeles",
+      "latitude":34.039577,
+      "longitude":-118.297852
+   },
+   {
+      "zip":"90201",
+      "locality":"Bell",
+      "latitude":33.974346,
+      "longitude":-118.179760
+   },
+   {
+      "zip":"90201",
+      "locality":"Bell Gardens",
+      "latitude":33.972189,
+      "longitude":-118.171171
+   },
+   {
+      "zip":"90201",
+      "locality":"Cudahy",
+      "latitude":33.960570,
+      "longitude":-118.185349
+   },
+   {
+      "zip":"90210",
+      "locality":"Beverly Hills",
+      "latitude":34.101261,
+      "longitude":-118.412789
+   },
+   {
+      "zip":"90211",
+      "locality":"Beverly Hills",
+      "latitude":34.065899,
+      "longitude":-118.383745
+   },
+   {
+      "zip":"90212",
+      "locality":"Beverly Hills",
+      "latitude":34.061554,
+      "longitude":-118.397800
+   },
+   {
+      "zip":"90220",
+      "locality":"Compton",
+      "latitude":33.889246,
+      "longitude":-118.238167
+   },
+   {
+      "zip":"90220",
+      "locality":"Crystal",
+      "latitude":33.887962,
+      "longitude":-118.239195
+   },
+   {
+      "zip":"90220",
+      "locality":"Rancho Dominguez",
+      "latitude":33.897232,
+      "longitude":-118.247455
+   },
+   {
+      "zip":"90221",
+      "locality":"Compton",
+      "latitude":33.894033,
+      "longitude":-118.206100
+   },
+   {
+      "zip":"90221",
+      "locality":"East Rancho Dominguez",
+      "latitude":33.898071,
+      "longitude":-118.195348
+   },
+   {
+      "zip":"90222",
+      "locality":"Compton",
+      "latitude":33.908970,
+      "longitude":-118.236620
+   },
+   {
+      "zip":"90222",
+      "locality":"Rosewood",
+      "latitude":33.912139,
+      "longitude":-118.237277
+   },
+   {
+      "zip":"90224",
+      "locality":"Compton",
+      "latitude":33.889459,
+      "longitude":-118.215562
+   },
+   {
+      "zip":"90230",
+      "locality":"Culver City",
+      "latitude":33.996763,
+      "longitude":-118.396115
+   },
+   {
+      "zip":"90230",
+      "locality":"Los Angeles",
+      "latitude":34.039577,
+      "longitude":-118.297852
+   },
+   {
+      "zip":"90231",
+      "locality":"Culver City",
+      "latitude":33.993753,
+      "longitude":-118.397759
+   },
+   {
+      "zip":"90232",
+      "locality":"Culver City",
+      "latitude":34.017735,
+      "longitude":-118.389811
+   },
+   {
+      "zip":"90240",
+      "locality":"Downey",
+      "latitude":33.953547,
+      "longitude":-118.120527
+   },
+   {
+      "zip":"90241",
+      "locality":"Downey",
+      "latitude":33.939349,
+      "longitude":-118.128818
+   },
+   {
+      "zip":"90242",
+      "locality":"Downey",
+      "latitude":33.924009,
+      "longitude":-118.141199
+   },
+   {
+      "zip":"90245",
+      "locality":"El Segundo",
+      "latitude":33.920917,
+      "longitude":-118.404021
+   },
+   {
+      "zip":"90247",
+      "locality":"Gardena",
+      "latitude":33.891398,
+      "longitude":-118.295752
+   },
+   {
+      "zip":"90248",
+      "locality":"Gardena",
+      "latitude":33.881272,
+      "longitude":-118.280357
+   },
+   {
+      "zip":"90249",
+      "locality":"Gardena",
+      "latitude":33.898023,
+      "longitude":-118.314772
+   },
+   {
+      "zip":"90250",
+      "locality":"Hawthorne",
+      "latitude":33.915136,
+      "longitude":-118.348488
+   },
+   {
+      "zip":"90250",
+      "locality":"Hollyglen",
+      "latitude":33.912776,
+      "longitude":-118.345632
+   },
+   {
+      "zip":"90250",
+      "locality":"Holly Park",
+      "latitude":33.912776,
+      "longitude":-118.345632
+   },
+   {
+      "zip":"90254",
+      "locality":"Hermosa Beach",
+      "latitude":33.866145,
+      "longitude":-118.397245
+   },
+   {
+      "zip":"90255",
+      "locality":"Huntington Park",
+      "latitude":33.978389,
+      "longitude":-118.216294
+   },
+   {
+      "zip":"90255",
+      "locality":"Walnut Park",
+      "latitude":33.968070,
+      "longitude":-118.225072
+   },
+   {
+      "zip":"90260",
+      "locality":"Lawndale",
+      "latitude":33.888830,
+      "longitude":-118.350460
+   },
+   {
+      "zip":"90261",
+      "locality":"Lawndale",
+      "latitude":33.892792,
+      "longitude":-118.365428
+   },
+   {
+      "zip":"90262",
+      "locality":"Lynwood",
+      "latitude":33.924302,
+      "longitude":-118.202360
+   },
+   {
+      "zip":"90265",
+      "locality":"Malibu",
+      "latitude":34.045275,
+      "longitude":-118.762166
+   },
+   {
+      "zip":"90266",
+      "locality":"Manhattan Beach",
+      "latitude":33.889886,
+      "longitude":-118.401267
+   },
+   {
+      "zip":"90270",
+      "locality":"Maywood",
+      "latitude":33.987427,
+      "longitude":-118.185791
+   },
+   {
+      "zip":"90272",
+      "locality":"Pacific Palisades",
+      "latitude":34.051289,
+      "longitude":-118.538058
+   },
+   {
+      "zip":"90274",
+      "locality":"Palos Verdes Estates",
+      "latitude":33.786528,
+      "longitude":-118.395448
+   },
+   {
+      "zip":"90274",
+      "locality":"Palos Verdes Peninsula",
+      "latitude":33.759525,
+      "longitude":-118.367869
+   },
+   {
+      "zip":"90274",
+      "locality":"Rolling Hills",
+      "latitude":33.756962,
+      "longitude":-118.353961
+   },
+   {
+      "zip":"90274",
+      "locality":"Rolling Hills Estates",
+      "latitude":33.778014,
+      "longitude":-118.356689
+   },
+   {
+      "zip":"90275",
+      "locality":"Rancho Palos Verdes",
+      "latitude":33.744461,
+      "longitude":-118.387017
+   },
+   {
+      "zip":"90275",
+      "locality":"Rolling Hills Estates",
+      "latitude":33.774159,
+      "longitude":-118.362700
+   },
+   {
+      "zip":"90277",
+      "locality":"Redondo Beach",
+      "latitude":33.828449,
+      "longitude":-118.382286
+   },
+   {
+      "zip":"90278",
+      "locality":"Redondo Beach",
+      "latitude":33.871162,
+      "longitude":-118.371096
+   },
+   {
+      "zip":"90280",
+      "locality":"South Gate",
+      "latitude":33.941530,
+      "longitude":-118.190622
+   },
+   {
+      "zip":"90290",
+      "locality":"Topanga",
+      "latitude":34.104256,
+      "longitude":-118.604459
+   },
+   {
+      "zip":"90291",
+      "locality":"Venice",
+      "latitude":33.991179,
+      "longitude":-118.464138
+   },
+   {
+      "zip":"90292",
+      "locality":"Marina Del Rey",
+      "latitude":33.977260,
+      "longitude":-118.453798
+   },
+   {
+      "zip":"90293",
+      "locality":"Playa Del Rey",
+      "latitude":33.958302,
+      "longitude":-118.441185
+   },
+   {
+      "zip":"90295",
+      "locality":"Marina Del Rey",
+      "latitude":33.986996,
+      "longitude":-118.443582
+   },
+   {
+      "zip":"90301",
+      "locality":"Inglewood",
+      "latitude":33.955653,
+      "longitude":-118.352858
+   },
+   {
+      "zip":"90302",
+      "locality":"Inglewood",
+      "latitude":33.972722,
+      "longitude":-118.353121
+   },
+   {
+      "zip":"90303",
+      "locality":"Inglewood",
+      "latitude":33.937158,
+      "longitude":-118.333259
+   },
+   {
+      "zip":"90304",
+      "locality":"Inglewood",
+      "latitude":33.936652,
+      "longitude":-118.349460
+   },
+   {
+      "zip":"90304",
+      "locality":"Lennox",
+      "latitude":33.938070,
+      "longitude":-118.352575
+   },
+   {
+      "zip":"90305",
+      "locality":"Inglewood",
+      "latitude":33.957488,
+      "longitude":-118.331454
+   },
+   {
+      "zip":"90309",
+      "locality":"Inglewood",
+      "latitude":33.963501,
+      "longitude":-118.353391
+   },
+   {
+      "zip":"90401",
+      "locality":"Santa Monica",
+      "latitude":34.015350,
+      "longitude":-118.494798
+   },
+   {
+      "zip":"90402",
+      "locality":"Santa Monica",
+      "latitude":34.035012,
+      "longitude":-118.502593
+   },
+   {
+      "zip":"90403",
+      "locality":"Santa Monica",
+      "latitude":34.030752,
+      "longitude":-118.490466
+   },
+   {
+      "zip":"90404",
+      "locality":"Santa Monica",
+      "latitude":34.026159,
+      "longitude":-118.467959
+   },
+   {
+      "zip":"90405",
+      "locality":"Santa Monica",
+      "latitude":34.008358,
+      "longitude":-118.460133
+   },
+   {
+      "zip":"90406",
+      "locality":"Santa Monica",
+      "latitude":34.017788,
+      "longitude":-118.493318
+   },
+   {
+      "zip":"90501",
+      "locality":"Torrance",
+      "latitude":33.826889,
+      "longitude":-118.313309
+   },
+   {
+      "zip":"90502",
+      "locality":"Torrance",
+      "latitude":33.828563,
+      "longitude":-118.293234
+   },
+   {
+      "zip":"90503",
+      "locality":"Torrance",
+      "latitude":33.839945,
+      "longitude":-118.352479
+   },
+   {
+      "zip":"90504",
+      "locality":"Torrance",
+      "latitude":33.866716,
+      "longitude":-118.329176
+   },
+   {
+      "zip":"90505",
+      "locality":"Torrance",
+      "latitude":33.810470,
+      "longitude":-118.348030
+   },
+   {
+      "zip":"90506",
+      "locality":"Torrance",
+      "latitude":33.883335,
+      "longitude":-118.331374
+   },
+   {
+      "zip":"90601",
+      "locality":"City of Industry",
+      "latitude":34.022680,
+      "longitude":-118.043096
+   },
+   {
+      "zip":"90601",
+      "locality":"Whittier",
+      "latitude":34.006645,
+      "longitude":-118.039321
+   },
+   {
+      "zip":"90602",
+      "locality":"Whittier",
+      "latitude":33.966367,
+      "longitude":-118.029809
+   },
+   {
+      "zip":"90603",
+      "locality":"Whittier",
+      "latitude":33.943712,
+      "longitude":-117.991344
+   },
+   {
+      "zip":"90604",
+      "locality":"Whittier",
+      "latitude":33.932882,
+      "longitude":-118.012579
+   },
+   {
+      "zip":"90605",
+      "locality":"Whittier",
+      "latitude":33.946948,
+      "longitude":-118.039542
+   },
+   {
+      "zip":"90606",
+      "locality":"Los Nietos",
+      "latitude":33.969167,
+      "longitude":-118.069861
+   },
+   {
+      "zip":"90606",
+      "locality":"Whittier",
+      "latitude":33.975999,
+      "longitude":-118.064178
+   },
+   {
+      "zip":"90638",
+      "locality":"La Mirada",
+      "latitude":33.907072,
+      "longitude":-118.004135
+   },
+   {
+      "zip":"90640",
+      "locality":"Montebello",
+      "latitude":34.015977,
+      "longitude":-118.110305
+   },
+   {
+      "zip":"90650",
+      "locality":"Norwalk",
+      "latitude":33.907433,
+      "longitude":-118.079647
+   },
+   {
+      "zip":"90660",
+      "locality":"Pico Rivera",
+      "latitude":33.991763,
+      "longitude":-118.087446
+   },
+   {
+      "zip":"90670",
+      "locality":"Santa Fe Springs",
+      "latitude":33.936556,
+      "longitude":-118.068041
+   },
+   {
+      "zip":"90701",
+      "locality":"Artesia",
+      "latitude":33.866821,
+      "longitude":-118.080994
+   },
+   {
+      "zip":"90701",
+      "locality":"Cerritos",
+      "latitude":33.873144,
+      "longitude":-118.072917
+   },
+   {
+      "zip":"90703",
+      "locality":"Cerritos",
+      "latitude":33.866775,
+      "longitude":-118.066235
+   },
+   {
+      "zip":"90704",
+      "locality":"Avalon",
+      "latitude":33.342819,
+      "longitude":-118.328228
+   },
+   {
+      "zip":"90704",
+      "locality":"Catalina",
+      "latitude":33.391487,
+      "longitude":-118.448455
+   },
+   {
+      "zip":"90704",
+      "locality":"Santa Catalina",
+      "latitude":33.391487,
+      "longitude":-118.448455
+   },
+   {
+      "zip":"90706",
+      "locality":"Bellflower",
+      "latitude":33.889245,
+      "longitude":-118.126072
+   },
+   {
+      "zip":"90710",
+      "locality":"Harbor City",
+      "latitude":33.799457,
+      "longitude":-118.299828
+   },
+   {
+      "zip":"90712",
+      "locality":"Lakewood",
+      "latitude":33.849412,
+      "longitude":-118.144496
+   },
+   {
+      "zip":"90713",
+      "locality":"Lakewood",
+      "latitude":33.847970,
+      "longitude":-118.116604
+   },
+   {
+      "zip":"90715",
+      "locality":"Lakewood",
+      "latitude":33.841297,
+      "longitude":-118.081784
+   },
+   {
+      "zip":"90716",
+      "locality":"Hawaiian Gardens",
+      "latitude":33.831405,
+      "longitude":-118.072842
+   },
+   {
+      "zip":"90717",
+      "locality":"Lomita",
+      "latitude":33.793451,
+      "longitude":-118.317323
+   },
+   {
+      "zip":"90723",
+      "locality":"Paramount",
+      "latitude":33.900220,
+      "longitude":-118.164246
+   },
+   {
+      "zip":"90731",
+      "locality":"Fort MacArthur",
+      "latitude":33.743297,
+      "longitude":-118.275432
+   },
+   {
+      "zip":"90731",
+      "locality":"San Pedro",
+      "latitude":33.736022,
+      "longitude":-118.291295
+   },
+   {
+      "zip":"90731",
+      "locality":"Terminal Island",
+      "latitude":33.743297,
+      "longitude":-118.275432
+   },
+   {
+      "zip":"90732",
+      "locality":"San Pedro",
+      "latitude":33.736044,
+      "longitude":-118.309555
+   },
+   {
+      "zip":"90744",
+      "locality":"Wilmington",
+      "latitude":33.783631,
+      "longitude":-118.258017
+   },
+   {
+      "zip":"90745",
+      "locality":"Carson",
+      "latitude":33.822063,
+      "longitude":-118.267361
+   },
+   {
+      "zip":"90746",
+      "locality":"Carson",
+      "latitude":33.860786,
+      "longitude":-118.241916
+   },
+   {
+      "zip":"90755",
+      "locality":"Signal Hill",
+      "latitude":33.801941,
+      "longitude":-118.166850
+   },
+   {
+      "zip":"90802",
+      "locality":"Long Beach",
+      "latitude":33.771293,
+      "longitude":-118.190266
+   },
+   {
+      "zip":"90803",
+      "locality":"Belmont Shore",
+      "latitude":33.757220,
+      "longitude":-118.136110
+   },
+   {
+      "zip":"90803",
+      "locality":"Long Beach",
+      "latitude":33.763978,
+      "longitude":-118.126699
+   },
+   {
+      "zip":"90803",
+      "locality":"Naples",
+      "latitude":33.755396,
+      "longitude":-118.122509
+   },
+   {
+      "zip":"90804",
+      "locality":"East Long Beach",
+      "latitude":33.786203,
+      "longitude":-118.145179
+   },
+   {
+      "zip":"90804",
+      "locality":"Long Beach",
+      "latitude":33.783544,
+      "longitude":-118.150007
+   },
+   {
+      "zip":"90805",
+      "locality":"Lakewood",
+      "latitude":33.860115,
+      "longitude":-118.154723
+   },
+   {
+      "zip":"90805",
+      "locality":"Long Beach",
+      "latitude":33.856906,
+      "longitude":-118.184943
+   },
+   {
+      "zip":"90805",
+      "locality":"North Long Beach",
+      "latitude":33.860011,
+      "longitude":-118.185625
+   },
+   {
+      "zip":"90806",
+      "locality":"Long Beach",
+      "latitude":33.803058,
+      "longitude":-118.185465
+   },
+   {
+      "zip":"90807",
+      "locality":"Bixby Knolls",
+      "latitude":33.830347,
+      "longitude":-118.188329
+   },
+   {
+      "zip":"90807",
+      "locality":"Long Beach",
+      "latitude":33.827088,
+      "longitude":-118.183526
+   },
+   {
+      "zip":"90808",
+      "locality":"Long Beach",
+      "latitude":33.819731,
+      "longitude":-118.106474
+   },
+   {
+      "zip":"90810",
+      "locality":"Cabrillo",
+      "latitude":33.817397,
+      "longitude":-118.218358
+   },
+   {
+      "zip":"90810",
+      "locality":"Carson",
+      "latitude":33.831719,
+      "longitude":-118.227434
+   },
+   {
+      "zip":"90810",
+      "locality":"Dominguez",
+      "latitude":33.834739,
+      "longitude":-118.218681
+   },
+   {
+      "zip":"90810",
+      "locality":"Long Beach",
+      "latitude":33.819920,
+      "longitude":-118.215338
+   },
+   {
+      "zip":"90813",
+      "locality":"Long Beach",
+      "latitude":33.787659,
+      "longitude":-118.188845
+   },
+   {
+      "zip":"90814",
+      "locality":"Long Beach",
+      "latitude":33.771025,
+      "longitude":-118.144272
+   },
+   {
+      "zip":"90815",
+      "locality":"Long Beach",
+      "latitude":33.794519,
+      "longitude":-118.121832
+   },
+   {
+      "zip":"90822",
+      "locality":"Long Beach",
+      "latitude":33.737587,
+      "longitude":-118.256532
+   },
+   {
+      "zip":"90831",
+      "locality":"Long Beach",
+      "latitude":33.773543,
+      "longitude":-118.202906
+   },
+   {
+      "zip":"90833",
+      "locality":"Long Beach",
+      "latitude":33.768176,
+      "longitude":-118.199405
+   },
+   {
+      "zip":"90840",
+      "locality":"Long Beach",
+      "latitude":33.781861,
+      "longitude":-118.111400
+   },
+   {
+      "zip":"90844",
+      "locality":"Long Beach",
+      "latitude":33.783122,
+      "longitude":-118.195759
+   },
+   {
+      "zip":"90846",
+      "locality":"Long Beach",
+      "latitude":33.818248,
+      "longitude":-118.150704
+   },
+   {
+      "zip":"91001",
+      "locality":"Altadena",
+      "latitude":34.193941,
+      "longitude":-118.139928
+   },
+   {
+      "zip":"91006",
+      "locality":"Arcadia",
+      "latitude":34.135337,
+      "longitude":-118.027852
+   },
+   {
+      "zip":"91007",
+      "locality":"Arcadia",
+      "latitude":34.127693,
+      "longitude":-118.049382
+   },
+   {
+      "zip":"91008",
+      "locality":"Bradbury",
+      "latitude":34.149665,
+      "longitude":-117.966095
+   },
+   {
+      "zip":"91010",
+      "locality":"Duarte",
+      "latitude":34.137706,
+      "longitude":-117.963385
+   },
+   {
+      "zip":"91011",
+      "locality":"Flintridge",
+      "latitude":34.229774,
+      "longitude":-118.097232
+   },
+   {
+      "zip":"91011",
+      "locality":"La Canada",
+      "latitude":34.209146,
+      "longitude":-118.210608
+   },
+   {
+      "zip":"91011",
+      "locality":"La Canada Flintridge",
+      "latitude":34.208413,
+      "longitude":-118.201631
+   },
+   {
+      "zip":"91016",
+      "locality":"Monrovia",
+      "latitude":34.143941,
+      "longitude":-118.001292
+   },
+   {
+      "zip":"91020",
+      "locality":"Montrose",
+      "latitude":34.208975,
+      "longitude":-118.234057
+   },
+   {
+      "zip":"91023",
+      "locality":"Mount Wilson",
+      "latitude":34.227630,
+      "longitude":-118.067700
+   },
+   {
+      "zip":"91024",
+      "locality":"Sierra Madre",
+      "latitude":34.166271,
+      "longitude":-118.050462
+   },
+   {
+      "zip":"91030",
+      "locality":"South Pasadena",
+      "latitude":34.111074,
+      "longitude":-118.158104
+   },
+   {
+      "zip":"91040",
+      "locality":"Shadow Hills",
+      "latitude":34.261947,
+      "longitude":-118.351746
+   },
+   {
+      "zip":"91040",
+      "locality":"Sunland",
+      "latitude":34.259599,
+      "longitude":-118.331967
+   },
+   {
+      "zip":"91042",
+      "locality":"Tujunga",
+      "latitude":34.253387,
+      "longitude":-118.278910
+   },
+   {
+      "zip":"91046",
+      "locality":"Verdugo City",
+      "latitude":34.211469,
+      "longitude":-118.240771
+   },
+   {
+      "zip":"91101",
+      "locality":"Pasadena",
+      "latitude":34.146949,
+      "longitude":-118.139165
+   },
+   {
+      "zip":"91103",
+      "locality":"Pasadena",
+      "latitude":34.164664,
+      "longitude":-118.160477
+   },
+   {
+      "zip":"91104",
+      "locality":"Pasadena",
+      "latitude":34.165821,
+      "longitude":-118.123711
+   },
+   {
+      "zip":"91105",
+      "locality":"Pasadena",
+      "latitude":34.137006,
+      "longitude":-118.163060
+   },
+   {
+      "zip":"91106",
+      "locality":"Pasadena",
+      "latitude":34.138099,
+      "longitude":-118.120947
+   },
+   {
+      "zip":"91107",
+      "locality":"Pasadena",
+      "latitude":34.153072,
+      "longitude":-118.087445
+   },
+   {
+      "zip":"91108",
+      "locality":"San Marino",
+      "latitude":34.121403,
+      "longitude":-118.114315
+   },
+   {
+      "zip":"91109",
+      "locality":"Pasadena",
+      "latitude":34.167092,
+      "longitude":-118.184700
+   },
+   {
+      "zip":"91121",
+      "locality":"Pasadena",
+      "latitude":34.149873,
+      "longitude":-118.089832
+   },
+   {
+      "zip":"91123",
+      "locality":"Pasadena",
+      "latitude":34.143468,
+      "longitude":-118.156452
+   },
+   {
+      "zip":"91124",
+      "locality":"Pasadena",
+      "latitude":34.099912,
+      "longitude":-118.206467
+   },
+   {
+      "zip":"91125",
+      "locality":"Pasadena",
+      "latitude":34.077801,
+      "longitude":-117.920628
+   },
+   {
+      "zip":"91126",
+      "locality":"Pasadena",
+      "latitude":34.077801,
+      "longitude":-117.920628
+   },
+   {
+      "zip":"91129",
+      "locality":"Pasadena",
+      "latitude":34.144240,
+      "longitude":-118.156019
+   },
+   {
+      "zip":"91184",
+      "locality":"Pasadena",
+      "latitude":34.137228,
+      "longitude":-118.159570
+   },
+   {
+      "zip":"91185",
+      "locality":"Pasadena",
+      "latitude":34.103997,
+      "longitude":-118.099751
+   },
+   {
+      "zip":"91188",
+      "locality":"Pasadena",
+      "latitude":34.129823,
+      "longitude":-118.077937
+   },
+   {
+      "zip":"91189",
+      "locality":"Pasadena",
+      "latitude":34.139679,
+      "longitude":-118.148661
+   },
+   {
+      "zip":"91201",
+      "locality":"Glendale",
+      "latitude":34.169851,
+      "longitude":-118.289574
+   },
+   {
+      "zip":"91202",
+      "locality":"Glendale",
+      "latitude":34.167174,
+      "longitude":-118.265698
+   },
+   {
+      "zip":"91203",
+      "locality":"Glendale",
+      "latitude":34.152911,
+      "longitude":-118.259787
+   },
+   {
+      "zip":"91204",
+      "locality":"Glendale",
+      "latitude":34.130006,
+      "longitude":-118.261217
+   },
+   {
+      "zip":"91205",
+      "locality":"Glendale",
+      "latitude":34.135491,
+      "longitude":-118.242170
+   },
+   {
+      "zip":"91206",
+      "locality":"Glendale",
+      "latitude":34.160867,
+      "longitude":-118.219625
+   },
+   {
+      "zip":"91207",
+      "locality":"Glendale",
+      "latitude":34.168101,
+      "longitude":-118.243894
+   },
+   {
+      "zip":"91208",
+      "locality":"Glendale",
+      "latitude":34.187627,
+      "longitude":-118.229266
+   },
+   {
+      "zip":"91210",
+      "locality":"Glendale",
+      "latitude":34.146057,
+      "longitude":-118.256086
+   },
+   {
+      "zip":"91210",
+      "locality":"Glendale Galleria",
+      "latitude":34.141722,
+      "longitude":-118.318263
+   },
+   {
+      "zip":"91214",
+      "locality":"La Crescenta",
+      "latitude":34.233811,
+      "longitude":-118.246144
+   },
+   {
+      "zip":"91301",
+      "locality":"Agoura",
+      "latitude":34.141528,
+      "longitude":-118.738472
+   },
+   {
+      "zip":"91301",
+      "locality":"Agoura Hills",
+      "latitude":34.144837,
+      "longitude":-118.756291
+   },
+   {
+      "zip":"91301",
+      "locality":"Calabasas",
+      "latitude":34.130760,
+      "longitude":-118.710867
+   },
+   {
+      "zip":"91301",
+      "locality":"Calabasas Hills",
+      "latitude":34.134364,
+      "longitude":-118.707793
+   },
+   {
+      "zip":"91301",
+      "locality":"Cornell",
+      "latitude":34.114450,
+      "longitude":-118.777868
+   },
+   {
+      "zip":"91301",
+      "locality":"Oak Park",
+      "latitude":34.112991,
+      "longitude":-118.754782
+   },
+   {
+      "zip":"91301",
+      "locality":"Saratoga Hills",
+      "latitude":34.128210,
+      "longitude":-118.764416
+   },
+   {
+      "zip":"91302",
+      "locality":"Calabasas",
+      "latitude":34.136623,
+      "longitude":-118.657834
+   },
+   {
+      "zip":"91302",
+      "locality":"Hidden Hills",
+      "latitude":34.160283,
+      "longitude":-118.652310
+   },
+   {
+      "zip":"91302",
+      "locality":"Monte Nido",
+      "latitude":34.080840,
+      "longitude":-118.687031
+   },
+   {
+      "zip":"91303",
+      "locality":"Canoga Park",
+      "latitude":34.199953,
+      "longitude":-118.593346
+   },
+   {
+      "zip":"91303",
+      "locality":"Woodland Hills",
+      "latitude":34.189947,
+      "longitude":-118.610272
+   },
+   {
+      "zip":"91304",
+      "locality":"Box Canyon",
+      "latitude":34.234283,
+      "longitude":-118.640428
+   },
+   {
+      "zip":"91304",
+      "locality":"Canoga Park",
+      "latitude":34.219791,
+      "longitude":-118.627399
+   },
+   {
+      "zip":"91306",
+      "locality":"Winnetka",
+      "latitude":34.206437,
+      "longitude":-118.570782
+   },
+   {
+      "zip":"91307",
+      "locality":"Bell Canyon",
+      "latitude":34.206253,
+      "longitude":-118.681683
+   },
+   {
+      "zip":"91307",
+      "locality":"West Hills",
+      "latitude":34.196549,
+      "longitude":-118.640234
+   },
+   {
+      "zip":"91311",
+      "locality":"Chatsworth",
+      "latitude":34.256070,
+      "longitude":-118.601464
+   },
+   {
+      "zip":"91316",
+      "locality":"Encino",
+      "latitude":34.162557,
+      "longitude":-118.516142
+   },
+   {
+      "zip":"91321",
+      "locality":"Friendly Valley",
+      "latitude":34.383275,
+      "longitude":-118.512384
+   },
+   {
+      "zip":"91321",
+      "locality":"Newhall",
+      "latitude":34.381429,
+      "longitude":-118.515512
+   },
+   {
+      "zip":"91322",
+      "locality":"Newhall",
+      "latitude":34.365118,
+      "longitude":-118.541429
+   },
+   {
+      "zip":"91324",
+      "locality":"Northridge",
+      "latitude":34.235835,
+      "longitude":-118.537802
+   },
+   {
+      "zip":"91325",
+      "locality":"Northridge",
+      "latitude":34.236027,
+      "longitude":-118.510037
+   },
+   {
+      "zip":"91325",
+      "locality":"Sherwood Forest",
+      "latitude":34.232220,
+      "longitude":-118.515700
+   },
+   {
+      "zip":"91326",
+      "locality":"Porter Ranch",
+      "latitude":34.280210,
+      "longitude":-118.557808
+   },
+   {
+      "zip":"91330",
+      "locality":"Northridge",
+      "latitude":34.242564,
+      "longitude":-118.527821
+   },
+   {
+      "zip":"91331",
+      "locality":"Arleta",
+      "latitude":34.243192,
+      "longitude":-118.431557
+   },
+   {
+      "zip":"91331",
+      "locality":"Hansen Hills",
+      "latitude":34.255406,
+      "longitude":-118.420697
+   },
+   {
+      "zip":"91331",
+      "locality":"Pacoima",
+      "latitude":34.258634,
+      "longitude":-118.398558
+   },
+   {
+      "zip":"91335",
+      "locality":"Reseda",
+      "latitude":34.202829,
+      "longitude":-118.541452
+   },
+   {
+      "zip":"91335",
+      "locality":"Tarzana",
+      "latitude":34.184005,
+      "longitude":-118.539507
+   },
+   {
+      "zip":"91340",
+      "locality":"San Fernando",
+      "latitude":34.283843,
+      "longitude":-118.434736
+   },
+   {
+      "zip":"91342",
+      "locality":"Kagel Canyon",
+      "latitude":34.300553,
+      "longitude":-118.376098
+   },
+   {
+      "zip":"91342",
+      "locality":"Lake View Terrace",
+      "latitude":34.278134,
+      "longitude":-118.389931
+   },
+   {
+      "zip":"91342",
+      "locality":"Sylmar",
+      "latitude":34.302746,
+      "longitude":-118.421213
+   },
+   {
+      "zip":"91343",
+      "locality":"North Hills",
+      "latitude":34.235834,
+      "longitude":-118.469909
+   },
+   {
+      "zip":"91343",
+      "locality":"Northridge",
+      "latitude":34.240414,
+      "longitude":-118.499632
+   },
+   {
+      "zip":"91343",
+      "locality":"Sepulveda",
+      "latitude":34.161670,
+      "longitude":-118.282850
+   },
+   {
+      "zip":"91344",
+      "locality":"Granada Hills",
+      "latitude":34.286551,
+      "longitude":-118.503976
+   },
+   {
+      "zip":"91345",
+      "locality":"Mission Hills",
+      "latitude":34.264242,
+      "longitude":-118.455513
+   },
+   {
+      "zip":"91345",
+      "locality":"San Fernando",
+      "latitude":34.268542,
+      "longitude":-118.467118
+   },
+   {
+      "zip":"91350",
+      "locality":"Bouquet Canyon",
+      "latitude":34.447207,
+      "longitude":-118.427185
+   },
+   {
+      "zip":"91350",
+      "locality":"Mint Canyon",
+      "latitude":34.429162,
+      "longitude":-118.442305
+   },
+   {
+      "zip":"91350",
+      "locality":"Santa Clarita",
+      "latitude":34.436517,
+      "longitude":-118.509210
+   },
+   {
+      "zip":"91350",
+      "locality":"Saugus",
+      "latitude":34.411385,
+      "longitude":-118.540086
+   },
+   {
+      "zip":"91350",
+      "locality":"Sleepy Valley",
+      "latitude":34.509159,
+      "longitude":-118.365358
+   },
+   {
+      "zip":"91351",
+      "locality":"Canyon Country",
+      "latitude":34.424363,
+      "longitude":-118.473578
+   },
+   {
+      "zip":"91352",
+      "locality":"La Tuna Canyon",
+      "latitude":34.225773,
+      "longitude":-118.372642
+   },
+   {
+      "zip":"91352",
+      "locality":"Rancho La Tuna Canyon",
+      "latitude":34.230157,
+      "longitude":-118.352039
+   },
+   {
+      "zip":"91352",
+      "locality":"Shadow Hills",
+      "latitude":34.261947,
+      "longitude":-118.351746
+   },
+   {
+      "zip":"91352",
+      "locality":"Sun Valley",
+      "latitude":34.246373,
+      "longitude":-118.381181
+   },
+   {
+      "zip":"91354",
+      "locality":"Valencia",
+      "latitude":34.447937,
+      "longitude":-118.550753
+   },
+   {
+      "zip":"91355",
+      "locality":"Santa Clarita",
+      "latitude":34.421776,
+      "longitude":-118.562140
+   },
+   {
+      "zip":"91355",
+      "locality":"Valencia",
+      "latitude":34.407513,
+      "longitude":-118.558380
+   },
+   {
+      "zip":"91356",
+      "locality":"Tarzana",
+      "latitude":34.156655,
+      "longitude":-118.541108
+   },
+   {
+      "zip":"91364",
+      "locality":"Woodland Hills",
+      "latitude":34.154963,
+      "longitude":-118.595029
+   },
+   {
+      "zip":"91365",
+      "locality":"Woodland Hills",
+      "latitude":34.176280,
+      "longitude":-118.601102
+   },
+   {
+      "zip":"91367",
+      "locality":"Woodland Hills",
+      "latitude":34.174983,
+      "longitude":-118.614827
+   },
+   {
+      "zip":"91371",
+      "locality":"Woodland Hills",
+      "latitude":34.183448,
+      "longitude":-118.579793
+   },
+   {
+      "zip":"91381",
+      "locality":"Stevenson Ranch",
+      "latitude":34.385004,
+      "longitude":-118.587013
+   },
+   {
+      "zip":"91381",
+      "locality":"Valencia",
+      "latitude":34.404789,
+      "longitude":-118.583334
+   },
+   {
+      "zip":"91383",
+      "locality":"Santa Clarita",
+      "latitude":34.428415,
+      "longitude":-118.526318
+   },
+   {
+      "zip":"91384",
+      "locality":"Castaic",
+      "latitude":34.473317,
+      "longitude":-118.635668
+   },
+   {
+      "zip":"91384",
+      "locality":"Val Verde",
+      "latitude":34.444995,
+      "longitude":-118.657589
+   },
+   {
+      "zip":"91387",
+      "locality":"Canyon Country",
+      "latitude":34.416507,
+      "longitude":-118.425772
+   },
+   {
+      "zip":"91387",
+      "locality":"Fair Oaks Ranch",
+      "latitude":34.419603,
+      "longitude":-118.424617
+   },
+   {
+      "zip":"91387",
+      "locality":"Santa Clarita",
+      "latitude":34.388789,
+      "longitude":-118.414234
+   },
+   {
+      "zip":"91390",
+      "locality":"Agua Dulce",
+      "latitude":34.507716,
+      "longitude":-118.314558
+   },
+   {
+      "zip":"91390",
+      "locality":"Canyon Country",
+      "latitude":34.472878,
+      "longitude":-118.389647
+   },
+   {
+      "zip":"91390",
+      "locality":"Green Valley",
+      "latitude":34.616185,
+      "longitude":-118.419509
+   },
+   {
+      "zip":"91390",
+      "locality":"Mint Canyon",
+      "latitude":34.429162,
+      "longitude":-118.442305
+   },
+   {
+      "zip":"91390",
+      "locality":"Santa Clarita",
+      "latitude":34.501117,
+      "longitude":-118.418749
+   },
+   {
+      "zip":"91390",
+      "locality":"Saugus",
+      "latitude":34.411385,
+      "longitude":-118.540086
+   },
+   {
+      "zip":"91390",
+      "locality":"Sleepy Valley",
+      "latitude":34.509159,
+      "longitude":-118.365358
+   },
+   {
+      "zip":"91401",
+      "locality":"Sherman Oaks",
+      "latitude":34.166857,
+      "longitude":-118.429102
+   },
+   {
+      "zip":"91401",
+      "locality":"Van Nuys",
+      "latitude":34.183063,
+      "longitude":-118.438354
+   },
+   {
+      "zip":"91402",
+      "locality":"Panorama City",
+      "latitude":34.223753,
+      "longitude":-118.437816
+   },
+   {
+      "zip":"91403",
+      "locality":"Sherman Oaks",
+      "latitude":34.145112,
+      "longitude":-118.462619
+   },
+   {
+      "zip":"91405",
+      "locality":"Valley Glen",
+      "latitude":34.189590,
+      "longitude":-118.421978
+   },
+   {
+      "zip":"91405",
+      "locality":"Van Nuys",
+      "latitude":34.194926,
+      "longitude":-118.445563
+   },
+   {
+      "zip":"91406",
+      "locality":"Lake Balboa",
+      "latitude":34.201170,
+      "longitude":-118.501115
+   },
+   {
+      "zip":"91406",
+      "locality":"Van Nuys",
+      "latitude":34.200601,
+      "longitude":-118.481974
+   },
+   {
+      "zip":"91411",
+      "locality":"Sherman Oaks",
+      "latitude":34.167799,
+      "longitude":-118.456589
+   },
+   {
+      "zip":"91411",
+      "locality":"Van Nuys",
+      "latitude":34.185609,
+      "longitude":-118.455337
+   },
+   {
+      "zip":"91423",
+      "locality":"Sherman Oaks",
+      "latitude":34.149203,
+      "longitude":-118.435587
+   },
+   {
+      "zip":"91436",
+      "locality":"Encino",
+      "latitude":34.149108,
+      "longitude":-118.491743
+   },
+   {
+      "zip":"91482",
+      "locality":"Van Nuys",
+      "latitude":34.211360,
+      "longitude":-118.438758
+   },
+   {
+      "zip":"91495",
+      "locality":"Sherman Oaks",
+      "latitude":34.171157,
+      "longitude":-118.462674
+   },
+   {
+      "zip":"91496",
+      "locality":"Van Nuys",
+      "latitude":34.216999,
+      "longitude":-118.494171
+   },
+   {
+      "zip":"91501",
+      "locality":"Burbank",
+      "latitude":34.188786,
+      "longitude":-118.299257
+   },
+   {
+      "zip":"91501",
+      "locality":"Starlight Hills",
+      "latitude":34.189658,
+      "longitude":-118.297234
+   },
+   {
+      "zip":"91502",
+      "locality":"Burbank",
+      "latitude":34.176862,
+      "longitude":-118.310231
+   },
+   {
+      "zip":"91504",
+      "locality":"Burbank",
+      "latitude":34.203396,
+      "longitude":-118.331408
+   },
+   {
+      "zip":"91505",
+      "locality":"Burbank",
+      "latitude":34.171343,
+      "longitude":-118.343589
+   },
+   {
+      "zip":"91506",
+      "locality":"Burbank",
+      "latitude":34.171759,
+      "longitude":-118.322620
+   },
+   {
+      "zip":"91507",
+      "locality":"Magnolia Park",
+      "latitude":34.170000,
+      "longitude":-118.350000
+   },
+   {
+      "zip":"91508",
+      "locality":"Burbank",
+      "latitude":34.189018,
+      "longitude":-118.324297
+   },
+   {
+      "zip":"91521",
+      "locality":"Burbank",
+      "latitude":34.156238,
+      "longitude":-118.324745
+   },
+   {
+      "zip":"91522",
+      "locality":"Burbank",
+      "latitude":34.148498,
+      "longitude":-118.337566
+   },
+   {
+      "zip":"91523",
+      "locality":"Burbank",
+      "latitude":34.154603,
+      "longitude":-118.333514
+   },
+   {
+      "zip":"91601",
+      "locality":"North Hollywood",
+      "latitude":34.168247,
+      "longitude":-118.371563
+   },
+   {
+      "zip":"91601",
+      "locality":"Toluca Terrace",
+      "latitude":34.166798,
+      "longitude":-118.358905
+   },
+   {
+      "zip":"91602",
+      "locality":"North Hollywood",
+      "latitude":34.150615,
+      "longitude":-118.373426
+   },
+   {
+      "zip":"91602",
+      "locality":"Toluca Lake",
+      "latitude":34.151292,
+      "longitude":-118.355853
+   },
+   {
+      "zip":"91602",
+      "locality":"West Toluca Lake",
+      "latitude":34.149752,
+      "longitude":-118.366435
+   },
+   {
+      "zip":"91604",
+      "locality":"Studio City",
+      "latitude":34.139065,
+      "longitude":-118.390522
+   },
+   {
+      "zip":"91605",
+      "locality":"North Hollywood",
+      "latitude":34.202526,
+      "longitude":-118.396039
+   },
+   {
+      "zip":"91606",
+      "locality":"North Hollywood",
+      "latitude":34.182010,
+      "longitude":-118.376806
+   },
+   {
+      "zip":"91607",
+      "locality":"Sherman Village",
+      "latitude":34.164895,
+      "longitude":-118.400900
+   },
+   {
+      "zip":"91607",
+      "locality":"Studio City",
+      "latitude":34.151209,
+      "longitude":-118.391115
+   },
+   {
+      "zip":"91607",
+      "locality":"Valley Village",
+      "latitude":34.163806,
+      "longitude":-118.391834
+   },
+   {
+      "zip":"91608",
+      "locality":"Universal City",
+      "latitude":34.137606,
+      "longitude":-118.353032
+   },
+   {
+      "zip":"91611",
+      "locality":"North Hollywood",
+      "latitude":34.186518,
+      "longitude":-118.388467
+   },
+   {
+      "zip":"91612",
+      "locality":"North Hollywood",
+      "latitude":34.186518,
+      "longitude":-118.388467
+   },
+   {
+      "zip":"91702",
+      "locality":"Azusa",
+      "latitude":34.133025,
+      "longitude":-117.904959
+   },
+   {
+      "zip":"91702",
+      "locality":"Irwindale",
+      "latitude":34.127657,
+      "longitude":-117.931360
+   },
+   {
+      "zip":"91706",
+      "locality":"Baldwin Park",
+      "latitude":34.086334,
+      "longitude":-117.966980
+   },
+   {
+      "zip":"91706",
+      "locality":"Irwindale",
+      "latitude":34.108681,
+      "longitude":-117.933351
+   },
+   {
+      "zip":"91711",
+      "locality":"Claremont",
+      "latitude":34.114802,
+      "longitude":-117.717970
+   },
+   {
+      "zip":"91722",
+      "locality":"Covina",
+      "latitude":34.096298,
+      "longitude":-117.903505
+   },
+   {
+      "zip":"91723",
+      "locality":"Covina",
+      "latitude":34.085209,
+      "longitude":-117.888293
+   },
+   {
+      "zip":"91724",
+      "locality":"Charter Oak",
+      "latitude":34.103065,
+      "longitude":-117.845894
+   },
+   {
+      "zip":"91724",
+      "locality":"Covina",
+      "latitude":34.084115,
+      "longitude":-117.860255
+   },
+   {
+      "zip":"91731",
+      "locality":"El Monte",
+      "latitude":34.077906,
+      "longitude":-118.036294
+   },
+   {
+      "zip":"91732",
+      "locality":"El Monte",
+      "latitude":34.071041,
+      "longitude":-118.014413
+   },
+   {
+      "zip":"91733",
+      "locality":"El Monte",
+      "latitude":34.061598,
+      "longitude":-118.045547
+   },
+   {
+      "zip":"91733",
+      "locality":"South El Monte",
+      "latitude":34.048187,
+      "longitude":-118.045234
+   },
+   {
+      "zip":"91734",
+      "locality":"El Monte",
+      "latitude":34.007767,
+      "longitude":-117.814308
+   },
+   {
+      "zip":"91740",
+      "locality":"Glendora",
+      "latitude":34.119011,
+      "longitude":-117.853516
+   },
+   {
+      "zip":"91741",
+      "locality":"Glendora",
+      "latitude":34.138736,
+      "longitude":-117.852531
+   },
+   {
+      "zip":"91744",
+      "locality":"City of Industry",
+      "latitude":34.024332,
+      "longitude":-117.947605
+   },
+   {
+      "zip":"91744",
+      "locality":"La Puente",
+      "latitude":34.028272,
+      "longitude":-117.934288
+   },
+   {
+      "zip":"91745",
+      "locality":"City of Industry",
+      "latitude":34.012574,
+      "longitude":-117.958297
+   },
+   {
+      "zip":"91745",
+      "locality":"Hacienda Heights",
+      "latitude":33.993754,
+      "longitude":-117.965980
+   },
+   {
+      "zip":"91746",
+      "locality":"Bassett",
+      "latitude":34.049732,
+      "longitude":-117.996732
+   },
+   {
+      "zip":"91746",
+      "locality":"City of Industry",
+      "latitude":34.040316,
+      "longitude":-117.984160
+   },
+   {
+      "zip":"91746",
+      "locality":"La Puente",
+      "latitude":34.045910,
+      "longitude":-117.983782
+   },
+   {
+      "zip":"91748",
+      "locality":"City of Industry",
+      "latitude":33.998795,
+      "longitude":-117.911132
+   },
+   {
+      "zip":"91748",
+      "locality":"Rowland Heights",
+      "latitude":33.979414,
+      "longitude":-117.896579
+   },
+   {
+      "zip":"91750",
+      "locality":"La Verne",
+      "latitude":34.119964,
+      "longitude":-117.769750
+   },
+   {
+      "zip":"91754",
+      "locality":"Monterey Park",
+      "latitude":34.050651,
+      "longitude":-118.143235
+   },
+   {
+      "zip":"91755",
+      "locality":"Monterey Park",
+      "latitude":34.048724,
+      "longitude":-118.115676
+   },
+   {
+      "zip":"91756",
+      "locality":"Monterey Park",
+      "latitude":34.044412,
+      "longitude":-118.150677
+   },
+   {
+      "zip":"91765",
+      "locality":"Diamond Bar",
+      "latitude":34.000964,
+      "longitude":-117.814739
+   },
+   {
+      "zip":"91766",
+      "locality":"Phillips Ranch",
+      "latitude":34.036208,
+      "longitude":-117.784264
+   },
+   {
+      "zip":"91766",
+      "locality":"Pomona",
+      "latitude":34.040235,
+      "longitude":-117.757076
+   },
+   {
+      "zip":"91767",
+      "locality":"Pomona",
+      "latitude":34.081916,
+      "longitude":-117.738108
+   },
+   {
+      "zip":"91768",
+      "locality":"Pomona",
+      "latitude":34.068274,
+      "longitude":-117.777103
+   },
+   {
+      "zip":"91770",
+      "locality":"Rosemead",
+      "latitude":34.063904,
+      "longitude":-118.085155
+   },
+   {
+      "zip":"91773",
+      "locality":"San Dimas",
+      "latitude":34.100326,
+      "longitude":-117.818105
+   },
+   {
+      "zip":"91775",
+      "locality":"San Gabriel",
+      "latitude":34.114109,
+      "longitude":-118.090622
+   },
+   {
+      "zip":"91776",
+      "locality":"San Gabriel",
+      "latitude":34.090850,
+      "longitude":-118.095244
+   },
+   {
+      "zip":"91780",
+      "locality":"Temple City",
+      "latitude":34.100990,
+      "longitude":-118.054200
+   },
+   {
+      "zip":"91789",
+      "locality":"Walnut",
+      "latitude":34.018774,
+      "longitude":-117.859995
+   },
+   {
+      "zip":"91790",
+      "locality":"West Covina",
+      "latitude":34.066703,
+      "longitude":-117.937603
+   },
+   {
+      "zip":"91791",
+      "locality":"West Covina",
+      "latitude":34.059663,
+      "longitude":-117.898130
+   },
+   {
+      "zip":"91792",
+      "locality":"West Covina",
+      "latitude":34.022654,
+      "longitude":-117.900088
+   },
+   {
+      "zip":"91801",
+      "locality":"Alhambra",
+      "latitude":34.091256,
+      "longitude":-118.131321
+   },
+   {
+      "zip":"91803",
+      "locality":"Alhambra",
+      "latitude":34.073991,
+      "longitude":-118.148407
+   },
+   {
+      "zip":"92397",
+      "locality":"Wrightwood",
+      "latitude":34.347253,
+      "longitude":-117.588276
+   },
+   {
+      "zip":"93243",
+      "locality":"Lebec",
+      "latitude":34.827077,
+      "longitude":-118.805056
+   },
+   {
+      "zip":"93510",
+      "locality":"Acton",
+      "latitude":34.490606,
+      "longitude":-118.192178
+   },
+   {
+      "zip":"93532",
+      "locality":"Elizabeth Lake",
+      "latitude":34.665784,
+      "longitude":-118.401653
+   },
+   {
+      "zip":"93532",
+      "locality":"Lake Elizabeth",
+      "latitude":34.684099,
+      "longitude":-118.442302
+   },
+   {
+      "zip":"93532",
+      "locality":"Lake Hughes",
+      "latitude":34.671270,
+      "longitude":-118.421721
+   },
+   {
+      "zip":"93532",
+      "locality":"Sandberg",
+      "latitude":34.740513,
+      "longitude":-118.712700
+   },
+   {
+      "zip":"93532",
+      "locality":"Three Points",
+      "latitude":34.735474,
+      "longitude":-118.600395
+   },
+   {
+      "zip":"93534",
+      "locality":"Del Sur",
+      "latitude":34.704399,
+      "longitude":-118.270675
+   },
+   {
+      "zip":"93534",
+      "locality":"Fairmont",
+      "latitude":34.734775,
+      "longitude":-118.424940
+   },
+   {
+      "zip":"93534",
+      "locality":"Hi Vista",
+      "latitude":34.733063,
+      "longitude":-117.827656
+   },
+   {
+      "zip":"93534",
+      "locality":"Lancaster",
+      "latitude":34.693879,
+      "longitude":-118.160160
+   },
+   {
+      "zip":"93534",
+      "locality":"Lane",
+      "latitude":34.696536,
+      "longitude":-118.151438
+   },
+   {
+      "zip":"93534",
+      "locality":"Wilsona Gardens",
+      "latitude":34.667787,
+      "longitude":-117.825408
+   },
+   {
+      "zip":"93535",
+      "locality":"Hi Vista",
+      "latitude":34.733063,
+      "longitude":-117.827656
+   },
+   {
+      "zip":"93535",
+      "locality":"Lake Los Angeles",
+      "latitude":34.527640,
+      "longitude":-117.907228
+   },
+   {
+      "zip":"93535",
+      "locality":"Lancaster",
+      "latitude":34.687509,
+      "longitude":-118.039385
+   },
+   {
+      "zip":"93535",
+      "locality":"Roosevelt Corner",
+      "latitude":34.691731,
+      "longitude":-118.038011
+   },
+   {
+      "zip":"93535",
+      "locality":"Wilsona Gardens",
+      "latitude":34.667787,
+      "longitude":-117.825408
+   },
+   {
+      "zip":"93536",
+      "locality":"Del Sur",
+      "latitude":34.704399,
+      "longitude":-118.270675
+   },
+   {
+      "zip":"93536",
+      "locality":"Fairmont",
+      "latitude":34.734775,
+      "longitude":-118.424940
+   },
+   {
+      "zip":"93536",
+      "locality":"Lancaster",
+      "latitude":34.689235,
+      "longitude":-118.250704
+   },
+   {
+      "zip":"93536",
+      "locality":"Metler Valley",
+      "latitude":34.701083,
+      "longitude":-118.281064
+   },
+   {
+      "zip":"93536",
+      "locality":"Neenach",
+      "latitude":34.780571,
+      "longitude":-118.580952
+   },
+   {
+      "zip":"93536",
+      "locality":"Quartz Hill",
+      "latitude":34.629808,
+      "longitude":-118.206870
+   },
+   {
+      "zip":"93543",
+      "locality":"Juniper Hills",
+      "latitude":34.470337,
+      "longitude":-117.947695
+   },
+   {
+      "zip":"93543",
+      "locality":"Littlerock",
+      "latitude":34.516766,
+      "longitude":-117.955487
+   },
+   {
+      "zip":"93543",
+      "locality":"Sun Village",
+      "latitude":34.519321,
+      "longitude":-117.953386
+   },
+   {
+      "zip":"93544",
+      "locality":"Crystalaire",
+      "latitude":34.476357,
+      "longitude":-117.757567
+   },
+   {
+      "zip":"93544",
+      "locality":"Llano",
+      "latitude":34.492316,
+      "longitude":-117.784353
+   },
+   {
+      "zip":"93550",
+      "locality":"Lake Los Angeles",
+      "latitude":34.527640,
+      "longitude":-117.907228
+   },
+   {
+      "zip":"93550",
+      "locality":"Palmdale",
+      "latitude":34.560758,
+      "longitude":-118.085661
+   },
+   {
+      "zip":"93551",
+      "locality":"City Ranch",
+      "latitude":34.597022,
+      "longitude":-118.247576
+   },
+   {
+      "zip":"93551",
+      "locality":"Leona Valley",
+      "latitude":34.610317,
+      "longitude":-118.273208
+   },
+   {
+      "zip":"93551",
+      "locality":"Palmdale",
+      "latitude":34.601880,
+      "longitude":-118.183634
+   },
+   {
+      "zip":"93551",
+      "locality":"Quartz Hill",
+      "latitude":34.629808,
+      "longitude":-118.206870
+   },
+   {
+      "zip":"93552",
+      "locality":"Palmdale",
+      "latitude":34.563623,
+      "longitude":-118.034193
+   },
+   {
+      "zip":"93553",
+      "locality":"Juniper Hills",
+      "latitude":34.470337,
+      "longitude":-117.947695
+   },
+   {
+      "zip":"93553",
+      "locality":"Pearblossom",
+      "latitude":34.476717,
+      "longitude":-117.898270
+   },
+   {
+      "zip":"93563",
+      "locality":"Valyermo",
+      "latitude":34.446108,
+      "longitude":-117.852286
+   },
+   {
+      "zip":"93591",
+      "locality":"Lake Los Angeles",
+      "latitude":34.527640,
+      "longitude":-117.907228
+   },
+   {
+      "zip":"93591",
+      "locality":"Palmdale",
+      "latitude":34.597194,
+      "longitude":-117.871969
+   },
+   {
+      "zip":"93599",
+      "locality":"Palmdale",
+      "latitude":34.612740,
+      "longitude":-118.113949
+   }
+]
