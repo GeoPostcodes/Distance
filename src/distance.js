@@ -16,15 +16,20 @@
 
 */
 
-function distance(from_lat, from_lng, to_lat, to_lng)
+brussels = {"lat":50.846710, "lng":4.352629};
+paris = {"lat": 48.853286, "lng": 2.348792 };
+
+
+
+function distance(from, to)
 {
   var R = 6371; // Radius of the earth in km, can be changed to 3959 for miles
   
-  var dLat = deg2rad(to_lat - from_lat);
-  var dLon = deg2rad(to_lng - from_lng); 
+  var dLat = deg2rad(to.lat - from.lat);
+  var dLon = deg2rad(to.lng - from.lng); 
   var a = 
     Math.sin(dLat/2) * Math.sin(dLat/2) +
-    Math.cos(deg2rad(from_lat)) * Math.cos(deg2rad(to_lat)) * 
+    Math.cos(deg2rad(from.lat)) * Math.cos(deg2rad(to.lat)) * 
     Math.sin(dLon/2) * Math.sin(dLon/2); 
   var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
   var d = R * c;
