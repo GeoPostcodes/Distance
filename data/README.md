@@ -1,1 +1,1 @@
-### GeoPostcode distance - sample data
+### GeoPostcode distance - Sample data
