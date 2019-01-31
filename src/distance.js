@@ -19,6 +19,7 @@
 brussels = {"lat":50.846710, "lng":4.352629};
 paris = {"lat": 48.853286, "lng": 2.348792 };
 
+d = distance(brussels, paris);
 
 
 function distance(from, to)
