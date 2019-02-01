@@ -1,5 +1,8 @@
-# Distance
+# GeoPC Distance
 
-#### Compute distance between geopoints or closest places to a geopoint
+#### Compute the great-circle distance between two geopoints
 
 https://jsfiddle.net/GeoPostcodes/rjpa1k37/6/
+
+#### Find the closest places to a geopoint
+
